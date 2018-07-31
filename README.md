@@ -1,6 +1,6 @@
 # Go Chat - a webserver with a simple chat
 
-# Windows only
+# Already build in Windows and the code could be build in any unix
 
 This is a simple chat web app written in Go
 
