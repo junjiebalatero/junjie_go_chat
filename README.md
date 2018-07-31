@@ -1,4 +1,6 @@
-# Go Chat
+# Go Chat - a webserver with a simple chat
+
+# Windwos only
 
 This is a simple chat web app written in Go
 
